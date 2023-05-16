@@ -95,8 +95,8 @@ a{
     }
 
     #contenedor-blog .contenedor-objetivos-blog__section-carta{
-        height: 35vh;
-        width: 20vh;
+        height: 50vh;
+        width: 31vh;
     }
 
     
@@ -163,7 +163,7 @@ a{
 }
 
 #contenedor-blog .contain-objetivos-blog__div{
-    padding: 15px 100px;
+    padding: 6px 47px;
 }
 
 #contenedor-blog h2{
