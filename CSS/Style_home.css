@@ -117,7 +117,7 @@ a{
    }
 
    #contenedor-objetivos__section .contenedor-objetivos__section-carta{
-        height: 80vh;
+        height: 65.5vh;
    }
  }
 
@@ -206,9 +206,10 @@ a{
 #contenedor-objetivos__section .contenedor-objetivos__section-carta{
     background-size: cover;
     background-position: center center;
-    padding: 50px;
-    margin: 12px;
+    padding: 9px;
+    margin: 6px;
     border-radius: 15px;
+    padding-top: 3px;
 }
 
 .contenedor-objetivos__section-carta h3{
@@ -218,19 +219,19 @@ a{
 
 .contenedor-objetivos__section-carta:first-child{
     background-image: url(https://images.unsplash.com/photo-1475359524104-d101d02a042b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1594&q=80);
-    height: 20vh;
+    height: 25vh;
     
 }
 
 .contenedor-objetivos__section-carta:nth-child(2){
     background-image: url(https://images.unsplash.com/photo-1464925257126-6450e871c667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
-    height: 20vh;
+    height: 25vh;
    
 }
 
 .contenedor-objetivos__section-carta:nth-child(3){
     background-image: url(https://images.unsplash.com/photo-1476842634003-7dcca8f832de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
-    height: 20vh;
+    height: 25vh;
     
 }
 
