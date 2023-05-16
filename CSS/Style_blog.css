@@ -95,7 +95,8 @@ a{
     }
 
     #contenedor-blog .contenedor-objetivos-blog__section-carta{
-        height: 47.5vh;
+        height: 35vh;
+        width: 20vh;
     }
 
     
@@ -179,12 +180,21 @@ a{
 }
 
 #contenedor-blog .contenedor-objetivos-blog__section-carta{
+    display: flex;
+    text-align: center;
     background-size: cover;
     background-position: center center;
     padding: 40px;
-    padding-left: 50px;
+    margin-right: 700px;
     margin: 12px;
     border-radius: 15px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contenedor-objetivos-blog__section-carta h3{
